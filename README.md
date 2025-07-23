@@ -1,3 +1,4 @@
+<img width="1000" height="435" alt="Capturar" src="https://github.com/user-attachments/assets/8749dbf8-65e6-496e-9cf2-75e9a9258107" />
 
 
 # Pet Registration System
