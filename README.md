@@ -3,7 +3,7 @@
 
 # Pet Registration System
 
-Este é um sistema de linha de comando (CLI) desenvolvido em Java para gerenciar o cadastro de pets para adoção. Ele simula uma aplicação de adoção, permitindo que o usuário, dono do abrigo de animais registre, consulte, edite e remova informações sobre os animais.
+Este é um sistema de linha de comando (CLI) desenvolvido em Java para gerenciar o cadastro de pets para adoção. Ele simula uma aplicação de adoção de pets, permitindo que o usuário, dono do abrigo de animais registre, consulte, edite e remova informações sobre os animais.
 
 ## 📦 Funcionalidades
 
